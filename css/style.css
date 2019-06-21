@@ -1,0 +1,21 @@
+.brand-logo img {
+	height: 65px;
+}
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+}
+
+p {
+	text-align: justify;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
